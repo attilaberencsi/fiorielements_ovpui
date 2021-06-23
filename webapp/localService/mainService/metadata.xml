@@ -613,7 +613,7 @@
             <Annotations Target="cds_zfe_booking_analytics_000004.CurrencyType/Currency" xmlns="http://docs.oasis-open.org/odata/ns/edm">
                 <Annotation Term="Common.UnitSpecificScale" Path="Decimals"/>
             </Annotations>
-            <Annotations Target="cds_zfe_booking_analytics_000004.BookingType/FlightPrice" xmlns="http://docs.oasis-open.org/odata/ns/edm"/>
+
             <Annotations Target="cds_zfe_booking_analytics_000004.cds_zfe_booking_analytics_000004_Entities" xmlns="http://docs.oasis-open.org/odata/ns/edm">
                 <Annotation Term="Org.OData.Capabilities.V1.BatchSupport">
                     <Record Type="Org.OData.Capabilities.V1.BatchSupportType">
